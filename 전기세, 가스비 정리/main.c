@@ -6,6 +6,8 @@
 #include "elecManage.h"
 #include "screenOut.h"
 
+//Github test_
+
 enum { input_GAS = 1, show_Gas, change_PayGas, delete_Gas,
 	input_ELEC, show_Elec, change_PayElec, delete_Elec, EXIT };	//showMenu용 열거형 상수 1~8
 
